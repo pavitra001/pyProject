@@ -1,5 +1,5 @@
 #counting how often each character appears in text
-message = 'It was a bright cold day in April, and the clocks were strikingthirteen.'
+message = 'If you can control the code, You can control the world'
 count = {}
 
 for character in message:
